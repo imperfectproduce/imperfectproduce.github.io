@@ -1,0 +1,3024 @@
+{
+  "nodes": {
+    "SitePage /dev-404-page/": {
+      "path": "/dev-404-page/",
+      "id": "SitePage /dev-404-page/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5": {
+      "resolve": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "id": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "name": "dev-404-page",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "packageJson": {
+        "name": "dev-404-page",
+        "description": "Internal plugin to add a 404 page in development with helpful information",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "05ae1bef416eaaeb3d5646d1a1117abb",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "1fc32581-893a-55e8-8927-bcd667e2b700": {
+      "resolve": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "id": "1fc32581-893a-55e8-8927-bcd667e2b700",
+      "name": "load-babel-config",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onPreBootstrap"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "packageJson": {
+        "name": "load-babel-config",
+        "description": "Internal plugin that handles loading Babel configs",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "e35974ea9f9e29064403a24d561744d6",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "a5079d69-ba80-53dc-82f9-0f440bd5448c": {
+      "resolve": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "id": "a5079d69-ba80-53dc-82f9-0f440bd5448c",
+      "name": "internal-data-bridge",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "packageJson": {
+        "name": "internal-data-bridge",
+        "description": "An internal Gatsby plugin which creates data nodes from internal data",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "7a6212c9b9c3e1d4a588d1eea1447dd2",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "f795702c-a3b8-5a88-88ee-5d06019d44fa": {
+      "resolve": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "id": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "name": "prod-404",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "packageJson": {
+        "name": "prod-404",
+        "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "79002448262fcc0297df8957ed4e89a5",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "84dad27f-1d44-51fc-ac56-4db2e5222995": {
+      "resolve": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "id": "84dad27f-1d44-51fc-ac56-4db2e5222995",
+      "name": "query-runner",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "packageJson": {
+        "name": "query-runner",
+        "description": "Internal plugin for running queries",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "a6125997979e0c005d96a4b219ef4ff8",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "6f4b2fa9-66b5-5205-a03f-140005a2cfe5": {
+      "resolve": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/node_modules/gatsby/dist/internal-plugins/webpack-theme-component-shadowing",
+      "id": "6f4b2fa9-66b5-5205-a03f-140005a2cfe5",
+      "name": "webpack-theme-component-shadowing",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateWebpackConfig"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/node_modules/gatsby/dist/internal-plugins/webpack-theme-component-shadowing",
+      "packageJson": {
+        "name": "webpack-theme-component-shadowing",
+        "description": "An internal Gatsby plugin which handles configuring webpack to ensure theme components fall back from the user's site to theme modules.",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Chris Biscardi <chris@christopherbiscardi.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "0f6b50694de2fb088e4ec83bc5f80d4f",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "176dadcc-aa26-5c02-a651-88867760143b": {
+      "resolve": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/node_modules/gatsby-plugin-styled-components",
+      "id": "176dadcc-aa26-5c02-a651-88867760143b",
+      "name": "gatsby-plugin-styled-components",
+      "version": "3.0.5",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateBabelConfig"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "wrapRootElement",
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/node_modules/gatsby-plugin-styled-components",
+      "packageJson": {
+        "name": "gatsby-plugin-styled-components",
+        "description": "Gatsby plugin to add support for styled components",
+        "version": "3.0.5",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "styled-components"
+        ],
+        "author": "Guten Ye <ywzhaifei@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "babel-plugin-styled-components",
+            "version": ">1.5.0"
+          },
+          {
+            "name": "gatsby",
+            "version": "^2.0.32"
+          },
+          {
+            "name": "styled-components",
+            "version": ">=2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "5b5346974a7f5dc9ea246a6e0d0825b8",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "717cb7eb-8b2c-5085-8a3a-d781108869cc": {
+      "resolve": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/node_modules/gatsby-source-filesystem",
+      "id": "717cb7eb-8b2c-5085-8a3a-d781108869cc",
+      "name": "gatsby-source-filesystem",
+      "version": "2.0.20",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/content/blog",
+        "name": "blog"
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "2.0.20",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "better-queue",
+            "version": "^3.8.7"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "file-type",
+            "version": "^10.2.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1"
+          },
+          {
+            "name": "mime",
+            "version": "^2.2.0"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "read-chunk",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9"
+          },
+          {
+            "name": "xstate",
+            "version": "^3.1.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "e4b1904f40970f6477ebbdc528d4c450",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "1ae1d1f0-4e72-55a0-9148-95c2fae60a20": {
+      "resolve": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/node_modules/gatsby-source-filesystem",
+      "id": "1ae1d1f0-4e72-55a0-9148-95c2fae60a20",
+      "name": "gatsby-source-filesystem",
+      "version": "2.0.20",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/content/assets",
+        "name": "assets"
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "2.0.20",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "better-queue",
+            "version": "^3.8.7"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "file-type",
+            "version": "^10.2.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1"
+          },
+          {
+            "name": "mime",
+            "version": "^2.2.0"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "read-chunk",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9"
+          },
+          {
+            "name": "xstate",
+            "version": "^3.1.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "f5d28b2e09f9203d36bf9c40cc3329bc",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "00de1b7a-946a-5a90-8a6f-22c9198b06ac": {
+      "resolve": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/node_modules/gatsby-transformer-remark",
+      "id": "00de1b7a-946a-5a90-8a6f-22c9198b06ac",
+      "name": "gatsby-transformer-remark",
+      "version": "2.2.4",
+      "pluginOptions": {
+        "plugins": [
+          {
+            "resolve": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/node_modules/gatsby-remark-reading-time",
+            "id": "69998678-9b76-5eee-8a44-ac55491cc61a",
+            "name": "gatsby-remark-reading-time",
+            "version": "1.0.1",
+            "pluginOptions": {
+              "plugins": []
+            },
+            "nodeAPIs": [
+              "onCreateNode"
+            ],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/node_modules/gatsby-remark-reading-time"
+          },
+          {
+            "resolve": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/node_modules/gatsby-remark-images",
+            "id": "4a359a36-fef3-5c49-a0f9-45c24a5fd434",
+            "name": "gatsby-remark-images",
+            "version": "2.0.6",
+            "pluginOptions": {
+              "plugins": [],
+              "maxWidth": 590,
+              "wrapperStyle": "",
+              "backgroundColor": "white",
+              "linkImagesToOriginal": true,
+              "showCaptions": false,
+              "pathPrefix": "",
+              "withWebp": false
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/node_modules/gatsby-remark-images"
+          },
+          {
+            "resolve": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/node_modules/gatsby-remark-responsive-iframe",
+            "id": "1a3d9dbf-c3c7-50dc-9f59-97f0cf8bb163",
+            "name": "gatsby-remark-responsive-iframe",
+            "version": "2.0.9",
+            "pluginOptions": {
+              "plugins": [],
+              "wrapperStyle": "margin-bottom: 1.0725rem"
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/node_modules/gatsby-remark-responsive-iframe"
+          },
+          {
+            "resolve": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/node_modules/gatsby-remark-prismjs",
+            "id": "b8d3a2f5-5540-5699-b862-153e57b2c618",
+            "name": "gatsby-remark-prismjs",
+            "version": "3.2.4",
+            "pluginOptions": {
+              "plugins": []
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/node_modules/gatsby-remark-prismjs"
+          },
+          {
+            "resolve": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/node_modules/gatsby-remark-copy-linked-files",
+            "id": "80533a5b-ad2d-50ff-af51-726674869458",
+            "name": "gatsby-remark-copy-linked-files",
+            "version": "2.0.9",
+            "pluginOptions": {
+              "plugins": [],
+              "ignoreFileExtensions": [
+                "png",
+                "jpg",
+                "jpeg",
+                "bmp",
+                "tiff"
+              ]
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/node_modules/gatsby-remark-copy-linked-files"
+          },
+          {
+            "resolve": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/node_modules/gatsby-remark-smartypants",
+            "id": "90305615-131b-5991-a708-2c2d1c43d946",
+            "name": "gatsby-remark-smartypants",
+            "version": "2.0.8",
+            "pluginOptions": {
+              "plugins": []
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/node_modules/gatsby-remark-smartypants"
+          }
+        ]
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/node_modules/gatsby-transformer-remark",
+      "packageJson": {
+        "name": "gatsby-transformer-remark",
+        "description": "Gatsby transformer plugin for Markdown using the Remark library and ecosystem",
+        "version": "2.2.4",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "markdown",
+          "remark"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "gray-matter",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "hast-util-raw",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "hast-util-to-html",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "mdast-util-to-hast",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "mdast-util-toc",
+            "version": "^2.0.1"
+          },
+          {
+            "name": "remark",
+            "version": "^9.0.0"
+          },
+          {
+            "name": "remark-parse",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "remark-retext",
+            "version": "^3.1.0"
+          },
+          {
+            "name": "remark-stringify",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "retext-english",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "sanitize-html",
+            "version": "^1.18.2"
+          },
+          {
+            "name": "underscore.string",
+            "version": "^3.3.5"
+          },
+          {
+            "name": "unified",
+            "version": "^6.1.5"
+          },
+          {
+            "name": "unist-util-remove-position",
+            "version": "^1.1.2"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.3.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.88"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "516017d9a78b4bcfad4c69baa978d205",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "69998678-9b76-5eee-8a44-ac55491cc61a": {
+      "resolve": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/node_modules/gatsby-remark-reading-time",
+      "id": "69998678-9b76-5eee-8a44-ac55491cc61a",
+      "name": "gatsby-remark-reading-time",
+      "version": "1.0.1",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateNode"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/node_modules/gatsby-remark-reading-time",
+      "packageJson": {
+        "name": "gatsby-remark-reading-time",
+        "description": "Adds an estimated reading time field to all remark nodes",
+        "version": "1.0.1",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "remark",
+          "reading time",
+          "node",
+          "medium",
+          "estimate"
+        ],
+        "author": "Garet McKinley <self@garet.io>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "reading-time",
+            "version": "^1.1.3"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "babel-eslint",
+            "version": "^9.0.0"
+          },
+          {
+            "name": "babel-preset-env",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.5"
+          },
+          {
+            "name": "eslint",
+            "version": "^5.3.0"
+          },
+          {
+            "name": "eslint-config-prettier",
+            "version": "^3.0.1"
+          },
+          {
+            "name": "husky",
+            "version": "^1.0.0-rc.13"
+          },
+          {
+            "name": "lint-staged",
+            "version": "^7.2.2"
+          },
+          {
+            "name": "prettier",
+            "version": "1.14.2"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "next"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "20de2532c27c3302162cd4930058343c",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "4a359a36-fef3-5c49-a0f9-45c24a5fd434": {
+      "resolve": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/node_modules/gatsby-remark-images",
+      "id": "4a359a36-fef3-5c49-a0f9-45c24a5fd434",
+      "name": "gatsby-remark-images",
+      "version": "2.0.6",
+      "pluginOptions": {
+        "plugins": [],
+        "maxWidth": 590,
+        "wrapperStyle": "",
+        "backgroundColor": "white",
+        "linkImagesToOriginal": true,
+        "showCaptions": false,
+        "pathPrefix": "",
+        "withWebp": false
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/node_modules/gatsby-remark-images",
+      "packageJson": {
+        "name": "gatsby-remark-images",
+        "description": "Processes images in markdown so they can be used in the production build.",
+        "version": "2.0.6",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "markdown",
+          "remark",
+          "responsive images"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cheerio",
+            "version": "^1.0.0-rc.2"
+          },
+          {
+            "name": "is-relative-url",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "unist-util-visit-parents",
+            "version": "^2.0.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.2"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^2.0.0-beta.5"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "47550b94bf70a9662ac6d129357583b9",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "1a3d9dbf-c3c7-50dc-9f59-97f0cf8bb163": {
+      "resolve": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/node_modules/gatsby-remark-responsive-iframe",
+      "id": "1a3d9dbf-c3c7-50dc-9f59-97f0cf8bb163",
+      "name": "gatsby-remark-responsive-iframe",
+      "version": "2.0.9",
+      "pluginOptions": {
+        "plugins": [],
+        "wrapperStyle": "margin-bottom: 1.0725rem"
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/node_modules/gatsby-remark-responsive-iframe",
+      "packageJson": {
+        "name": "gatsby-remark-responsive-iframe",
+        "description": "Make iframes in Markdown processed by Remark responsive",
+        "version": "2.0.9",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "remark"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "cheerio",
+            "version": "^1.0.0-rc.2"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.3.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          },
+          {
+            "name": "remark",
+            "version": "^9.0.0"
+          },
+          {
+            "name": "unist-util-find",
+            "version": "^1.0.1"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "cc9fd9dc42977d1e1dc0fc2642ecb1fa",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "b8d3a2f5-5540-5699-b862-153e57b2c618": {
+      "resolve": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/node_modules/gatsby-remark-prismjs",
+      "id": "b8d3a2f5-5540-5699-b862-153e57b2c618",
+      "name": "gatsby-remark-prismjs",
+      "version": "3.2.4",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/node_modules/gatsby-remark-prismjs",
+      "packageJson": {
+        "name": "gatsby-remark-prismjs",
+        "description": "Adds syntax highlighting to code blocks at build time using PrismJS",
+        "version": "3.2.4",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "prismjs",
+          "remark"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "parse-numeric-range",
+            "version": "^0.0.2"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.3.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          },
+          {
+            "name": "prismjs",
+            "version": "^1.15.0"
+          },
+          {
+            "name": "remark",
+            "version": "^9.0.0"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "prismjs",
+            "version": "^1.15.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "907aff6ebd2b4fee606a1a0a2b82f68e",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "80533a5b-ad2d-50ff-af51-726674869458": {
+      "resolve": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/node_modules/gatsby-remark-copy-linked-files",
+      "id": "80533a5b-ad2d-50ff-af51-726674869458",
+      "name": "gatsby-remark-copy-linked-files",
+      "version": "2.0.9",
+      "pluginOptions": {
+        "plugins": [],
+        "ignoreFileExtensions": [
+          "png",
+          "jpg",
+          "jpeg",
+          "bmp",
+          "tiff"
+        ]
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/node_modules/gatsby-remark-copy-linked-files",
+      "packageJson": {
+        "name": "gatsby-remark-copy-linked-files",
+        "description": "Find files which are linked to from markdown and copy them to the public directory",
+        "version": "2.0.9",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "prismjs",
+          "remark"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cheerio",
+            "version": "^1.0.0-rc.2"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.1"
+          },
+          {
+            "name": "is-relative-url",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "path-is-inside",
+            "version": "^1.0.2"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.3.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "a842351fc79e216c3d9870821777fa46",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "90305615-131b-5991-a708-2c2d1c43d946": {
+      "resolve": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/node_modules/gatsby-remark-smartypants",
+      "id": "90305615-131b-5991-a708-2c2d1c43d946",
+      "name": "gatsby-remark-smartypants",
+      "version": "2.0.8",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/node_modules/gatsby-remark-smartypants",
+      "packageJson": {
+        "name": "gatsby-remark-smartypants",
+        "description": "Use retext-smartypants to auto-enhance typography of markdown",
+        "version": "2.0.8",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "smartypants"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "retext",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "retext-smartypants",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.3.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "f996f705877f1c0ae5af061deef221a6",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "da3d06eb-685e-5c77-ae1d-750eb6a2e4a9": {
+      "resolve": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/node_modules/gatsby-transformer-sharp",
+      "id": "da3d06eb-685e-5c77-ae1d-750eb6a2e4a9",
+      "name": "gatsby-transformer-sharp",
+      "version": "2.1.13",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType",
+        "onPreExtractQueries"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/node_modules/gatsby-transformer-sharp",
+      "packageJson": {
+        "name": "gatsby-transformer-sharp",
+        "description": "Gatsby transformer plugin for images using Sharp",
+        "version": "2.1.13",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "sharp"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "potrace",
+            "version": "^2.1.1"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.21.3"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.33"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^2.0.0-beta.3"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "4ee6bce319f4e15c9ac35033db7acece",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "84d6154d-4241-556c-a679-cc8339cac100": {
+      "resolve": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/node_modules/gatsby-plugin-sharp",
+      "id": "84d6154d-4241-556c-a679-cc8339cac100",
+      "name": "gatsby-plugin-sharp",
+      "version": "2.0.20",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onPreInit"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/node_modules/gatsby-plugin-sharp",
+      "packageJson": {
+        "name": "gatsby-plugin-sharp",
+        "description": "Wrapper of the Sharp image manipulation library for Gatsby plugins",
+        "version": "2.0.20",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "sharp"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "async",
+            "version": "^2.1.2"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "fs-exists-cached",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "imagemin",
+            "version": "^6.0.0"
+          },
+          {
+            "name": "imagemin-mozjpeg",
+            "version": "^8.0.0"
+          },
+          {
+            "name": "imagemin-pngquant",
+            "version": "^6.0.0"
+          },
+          {
+            "name": "imagemin-webp",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "mini-svg-data-uri",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "potrace",
+            "version": "^2.1.1"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.21.3"
+          },
+          {
+            "name": "svgo",
+            "version": "^0.7.2"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "c8a5b4370122c4f284946a954888a694",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "624c196c-30dd-59e4-bcdd-a6f980c0396f": {
+      "resolve": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/node_modules/gatsby-plugin-google-analytics",
+      "id": "624c196c-30dd-59e4-bcdd-a6f980c0396f",
+      "name": "gatsby-plugin-google-analytics",
+      "version": "2.0.13",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [
+        "onRouteUpdate"
+      ],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/node_modules/gatsby-plugin-google-analytics",
+      "packageJson": {
+        "name": "gatsby-plugin-google-analytics",
+        "description": "Gatsby plugin to add google analytics onto a site",
+        "version": "2.0.13",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "google analytics"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "3dff8495d4a4be26813c9489526eeb10",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "e1a9b6ff-843f-5a8b-b9fa-7ab223df58a2": {
+      "resolve": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/node_modules/gatsby-plugin-feed",
+      "id": "e1a9b6ff-843f-5a8b-b9fa-7ab223df58a2",
+      "name": "gatsby-plugin-feed",
+      "version": "2.0.13",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onPostBuild"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/node_modules/gatsby-plugin-feed",
+      "packageJson": {
+        "name": "gatsby-plugin-feed",
+        "description": "Creates an RSS feed for your Gatsby site.",
+        "version": "2.0.13",
+        "main": "index.js",
+        "keywords": [
+          "atom",
+          "feed",
+          "gatsby",
+          "gatsby-plugin",
+          "rss"
+        ],
+        "author": "Nicholas Young <nicholas@nicholaswyoung.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "lodash.merge",
+            "version": "^4.6.0"
+          },
+          {
+            "name": "mkdirp",
+            "version": "^0.5.1"
+          },
+          {
+            "name": "pify",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "rss",
+            "version": "^1.2.2"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "14b70ac84d8ea489246d52aa4e469472",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "dee44986-459d-5a9c-bea6-1de7842285fd": {
+      "resolve": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/node_modules/gatsby-plugin-manifest",
+      "id": "dee44986-459d-5a9c-bea6-1de7842285fd",
+      "name": "gatsby-plugin-manifest",
+      "version": "2.0.17",
+      "pluginOptions": {
+        "plugins": [],
+        "name": "Gatsby Starter Blog",
+        "short_name": "GatsbyJS",
+        "start_url": "/",
+        "background_color": "#ffffff",
+        "theme_color": "#663399",
+        "display": "minimal-ui",
+        "icon": "content/assets/gatsby-icon.png"
+      },
+      "nodeAPIs": [
+        "onPostBootstrap"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/node_modules/gatsby-plugin-manifest",
+      "packageJson": {
+        "name": "gatsby-plugin-manifest",
+        "description": "Gatsby plugin which adds a manifest.webmanifest to make sites progressive web apps",
+        "version": "2.0.17",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "favicon",
+          "icons",
+          "manifest.webmanifest",
+          "progressive-web-app",
+          "pwa"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.21.3"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "9ce277ae410af461346310264aed62da",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "63e5f7ff-e5f1-58f7-8e2c-55872ac42281": {
+      "resolve": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/node_modules/gatsby-plugin-offline",
+      "id": "63e5f7ff-e5f1-58f7-8e2c-55872ac42281",
+      "name": "gatsby-plugin-offline",
+      "version": "2.0.22",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPages",
+        "onPostBuild"
+      ],
+      "browserAPIs": [
+        "registerServiceWorker",
+        "onServiceWorkerActive",
+        "onPostPrefetchPathname"
+      ],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/node_modules/gatsby-plugin-offline",
+      "packageJson": {
+        "name": "gatsby-plugin-offline",
+        "description": "Gatsby plugin which sets up a site to be able to run offline",
+        "version": "2.0.22",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "offline",
+          "precache",
+          "service-worker"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cheerio",
+            "version": "^1.0.0-rc.2"
+          },
+          {
+            "name": "cpx",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "idb-keyval",
+            "version": "^3.1.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "workbox-build",
+            "version": "^3.6.3"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.100"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "e3062fe86e357f6d7f21d52491473a71",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "1943ff2f-9c0c-558d-8d0c-006603e8106a": {
+      "resolve": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/node_modules/gatsby-plugin-react-helmet",
+      "id": "1943ff2f-9c0c-558d-8d0c-006603e8106a",
+      "name": "gatsby-plugin-react-helmet",
+      "version": "3.0.6",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/node_modules/gatsby-plugin-react-helmet",
+      "packageJson": {
+        "name": "gatsby-plugin-react-helmet",
+        "description": "Manage document head data with react-helmet. Provides drop-in server rendering support for Gatsby.",
+        "version": "3.0.6",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "favicon",
+          "react-helmet",
+          "seo",
+          "document",
+          "head",
+          "title",
+          "meta",
+          "link",
+          "script",
+          "base",
+          "noscript",
+          "style"
+        ],
+        "author": "Kyle Mathews <matthews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.1.3"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "72ac21c29de5cd29a522d525ef4f9d17",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "64059fc2-eafe-53ab-a542-ad6d70a5c7ff": {
+      "resolve": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/node_modules/gatsby-plugin-typography",
+      "id": "64059fc2-eafe-53ab-a542-ad6d70a5c7ff",
+      "name": "gatsby-plugin-typography",
+      "version": "2.2.7",
+      "pluginOptions": {
+        "plugins": [],
+        "pathToConfigModule": "src/utils/typography"
+      },
+      "nodeAPIs": [
+        "onPreBootstrap"
+      ],
+      "browserAPIs": [
+        "onClientEntry"
+      ],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/node_modules/gatsby-plugin-typography",
+      "packageJson": {
+        "name": "gatsby-plugin-typography",
+        "description": "Gatsby plugin to setup server rendering of Typography.js' CSS",
+        "version": "2.2.7",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "typography",
+          "typography.js"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          },
+          {
+            "name": "react-typography",
+            "version": "^0.16.18"
+          },
+          {
+            "name": "typography",
+            "version": "^0.16.18"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "react-typography",
+            "version": "^0.16.1 || ^1.0.0-alpha.0"
+          },
+          {
+            "name": "typography",
+            "version": "^0.16.0 || ^1.0.0-alpha.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "20f8b2070ded899995d696fed854bf6b",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "a3076d7e-9839-5a45-832c-d8cf228216f3": {
+      "resolve": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/node_modules/gatsby-plugin-favicon",
+      "id": "a3076d7e-9839-5a45-832c-d8cf228216f3",
+      "name": "gatsby-plugin-favicon",
+      "version": "3.1.5",
+      "pluginOptions": {
+        "plugins": [],
+        "logo": "./static/favicon.png"
+      },
+      "nodeAPIs": [
+        "onCreateWebpackConfig"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/node_modules/gatsby-plugin-favicon",
+      "packageJson": {
+        "name": "gatsby-plugin-favicon",
+        "description": "Gatsby plugin to add favicon for all configurations",
+        "version": "3.1.5",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "favicon"
+        ],
+        "author": "Julien Blatecky <julien.blatecky@creatiwity.net>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "favicons-webpack-plugin",
+            "version": "https://github.com/Creatiwity/favicons-webpack-plugin.git#f262255febeeca348bf7ae5cc140e0386c074e2c"
+          },
+          {
+            "name": "html-react-parser",
+            "version": "^0.4.6"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          },
+          {
+            "name": "react",
+            "version": "^16.4.2"
+          }
+        ],
+        "devDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "e5c7815b031216d9fc654ad8600bef41",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "7374ebf2-d961-52ee-92a2-c25e7cb387a9": {
+      "resolve": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io",
+      "id": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "name": "default-site-plugin",
+      "version": "ece1cab9e2289ef5fe3d61966710e72e",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPages",
+        "onCreateNode"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io",
+      "packageJson": {
+        "name": "gatsby-starter-blog",
+        "description": "A starter for a blog powered by Gatsby and Markdown",
+        "version": "0.1.0",
+        "main": "n/a",
+        "keywords": [
+          "gatsby"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-plugin-styled-components",
+            "version": "^1.10.0"
+          },
+          {
+            "name": "gatsby",
+            "version": "^2.0.115"
+          },
+          {
+            "name": "gatsby-image",
+            "version": "^2.0.29"
+          },
+          {
+            "name": "gatsby-plugin-favicon",
+            "version": "^3.1.5"
+          },
+          {
+            "name": "gatsby-plugin-feed",
+            "version": "^2.0.13"
+          },
+          {
+            "name": "gatsby-plugin-google-analytics",
+            "version": "^2.0.13"
+          },
+          {
+            "name": "gatsby-plugin-manifest",
+            "version": "^2.0.17"
+          },
+          {
+            "name": "gatsby-plugin-offline",
+            "version": "^2.0.22"
+          },
+          {
+            "name": "gatsby-plugin-react-helmet",
+            "version": "^3.0.6"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^2.0.20"
+          },
+          {
+            "name": "gatsby-plugin-styled-components",
+            "version": "^3.0.5"
+          },
+          {
+            "name": "gatsby-plugin-typography",
+            "version": "^2.2.7"
+          },
+          {
+            "name": "gatsby-remark-copy-linked-files",
+            "version": "^2.0.9"
+          },
+          {
+            "name": "gatsby-remark-images",
+            "version": "^2.0.6"
+          },
+          {
+            "name": "gatsby-remark-prismjs",
+            "version": "^3.2.4"
+          },
+          {
+            "name": "gatsby-remark-reading-time",
+            "version": "^1.0.1"
+          },
+          {
+            "name": "gatsby-remark-responsive-iframe",
+            "version": "^2.0.9"
+          },
+          {
+            "name": "gatsby-remark-smartypants",
+            "version": "^2.0.8"
+          },
+          {
+            "name": "gatsby-source-filesystem",
+            "version": "^2.0.20"
+          },
+          {
+            "name": "gatsby-transformer-remark",
+            "version": "^2.2.4"
+          },
+          {
+            "name": "gatsby-transformer-sharp",
+            "version": "^2.1.13"
+          },
+          {
+            "name": "prismjs",
+            "version": "^1.15.0"
+          },
+          {
+            "name": "react",
+            "version": "^16.8.0"
+          },
+          {
+            "name": "react-dom",
+            "version": "^16.8.0"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.2.0"
+          },
+          {
+            "name": "react-typography",
+            "version": "^0.16.18"
+          },
+          {
+            "name": "styled-components",
+            "version": "^4.1.3"
+          },
+          {
+            "name": "typeface-merriweather",
+            "version": "0.0.54"
+          },
+          {
+            "name": "typeface-montserrat",
+            "version": "0.0.54"
+          },
+          {
+            "name": "typography",
+            "version": "^0.16.18"
+          },
+          {
+            "name": "typography-theme-wordpress-2016",
+            "version": "^0.16.18"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "gh-pages",
+            "version": "^2.0.1"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "79ee6f0efc46c0b95e42a6bacc0b3800",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "b0a8a696-6efa-56d1-b3c1-3114e04d3c74": {
+      "resolve": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/node_modules/gatsby-plugin-page-creator",
+      "id": "b0a8a696-6efa-56d1-b3c1-3114e04d3c74",
+      "name": "gatsby-plugin-page-creator",
+      "version": "2.0.6",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/src/pages",
+        "pathCheck": false
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/node_modules/gatsby-plugin-page-creator",
+      "packageJson": {
+        "name": "gatsby-plugin-page-creator",
+        "description": "Gatsby plugin that automatically creates pages from React components in specified directories",
+        "version": "2.0.6",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "fs-exists-cached",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "glob",
+            "version": "^7.1.1"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "micromatch",
+            "version": "^3.1.10"
+          },
+          {
+            "name": "parse-filepath",
+            "version": "^1.0.1"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "206e9b102ec52f893931a274fb071571",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Site": {
+      "siteMetadata": {
+        "title": "Imperfect Engineering Blog",
+        "description": "Imperfect Engineering Tech Blog",
+        "siteUrl": "https://affectionate-easley-e21530.netlify.com/"
+      },
+      "pathPrefix": "",
+      "polyfill": true,
+      "buildTime": "2019-06-20T18:35:59.736Z",
+      "id": "Site",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "77a864fad17321cf64e2b58d32af11de",
+        "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "4d4a34ec-9538-5f30-a560-f7a67268db3a": {
+      "id": "4d4a34ec-9538-5f30-a560-f7a67268db3a",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "78cc7a94d3a312924474b27bc7b00757",
+        "type": "Directory",
+        "description": "Directory \"content/blog\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "blog",
+      "absolutePath": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/content/blog",
+      "relativePath": "",
+      "extension": "",
+      "size": 96,
+      "prettySize": "96 B",
+      "modifiedTime": "2019-06-20T18:22:32.389Z",
+      "accessTime": "2019-06-20T18:36:05.538Z",
+      "changeTime": "2019-06-20T18:22:32.389Z",
+      "birthTime": "2019-06-20T13:59:08.797Z",
+      "root": "/",
+      "dir": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/content",
+      "base": "blog",
+      "ext": "",
+      "name": "blog",
+      "relativeDirectory": "..",
+      "dev": 16777222,
+      "mode": 16877,
+      "nlink": 3,
+      "uid": 503,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 13457858,
+      "blocks": 0,
+      "atimeMs": 1561055765537.8362,
+      "mtimeMs": 1561054952388.6614,
+      "ctimeMs": 1561054952388.6614,
+      "birthtimeMs": 1561039148796.5269,
+      "atime": "2019-06-20T18:36:05.538Z",
+      "mtime": "2019-06-20T18:22:32.389Z",
+      "ctime": "2019-06-20T18:22:32.389Z",
+      "birthtime": "2019-06-20T13:59:08.797Z"
+    },
+    "c504f582-445d-52b9-8a86-5e9b36af3982": {
+      "id": "c504f582-445d-52b9-8a86-5e9b36af3982",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "dc8e525a3831a4df09d9a76984a48ca5",
+        "type": "Directory",
+        "description": "Directory \"content/blog/first-30-days\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "blog",
+      "absolutePath": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/content/blog/first-30-days",
+      "relativePath": "first-30-days",
+      "extension": "",
+      "size": 192,
+      "prettySize": "192 B",
+      "modifiedTime": "2019-06-20T18:32:34.431Z",
+      "accessTime": "2019-06-20T18:36:05.539Z",
+      "changeTime": "2019-06-20T18:32:34.431Z",
+      "birthTime": "2019-06-20T18:04:10.411Z",
+      "root": "/",
+      "dir": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/content/blog",
+      "base": "first-30-days",
+      "ext": "",
+      "name": "first-30-days",
+      "relativeDirectory": "",
+      "dev": 16777222,
+      "mode": 16877,
+      "nlink": 6,
+      "uid": 503,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 13543153,
+      "blocks": 0,
+      "atimeMs": 1561055765539.4236,
+      "mtimeMs": 1561055554431.0735,
+      "ctimeMs": 1561055554431.0735,
+      "birthtimeMs": 1561053850411.4888,
+      "atime": "2019-06-20T18:36:05.539Z",
+      "mtime": "2019-06-20T18:32:34.431Z",
+      "ctime": "2019-06-20T18:32:34.431Z",
+      "birthtime": "2019-06-20T18:04:10.411Z"
+    },
+    "69efc88c-11aa-5d91-9c6a-ada4b032d668": {
+      "id": "69efc88c-11aa-5d91-9c6a-ada4b032d668",
+      "children": [
+        "2f4694c3-abb1-51db-baee-ade89a1089cc"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "53759955d28b23e0483af13bf25b5089",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content/blog/first-30-days/clambake.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "blog",
+      "absolutePath": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/content/blog/first-30-days/clambake.jpg",
+      "relativePath": "first-30-days/clambake.jpg",
+      "extension": "jpg",
+      "size": 22490,
+      "prettySize": "22.5 kB",
+      "modifiedTime": "2019-06-20T18:32:34.430Z",
+      "accessTime": "2019-06-20T18:32:34.486Z",
+      "changeTime": "2019-06-20T18:32:34.444Z",
+      "birthTime": "2019-06-20T18:13:12.765Z",
+      "root": "/",
+      "dir": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/content/blog/first-30-days",
+      "base": "clambake.jpg",
+      "ext": ".jpg",
+      "name": "clambake",
+      "relativeDirectory": "first-30-days",
+      "dev": 16777222,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 503,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 13559143,
+      "blocks": 48,
+      "atimeMs": 1561055554485.6125,
+      "mtimeMs": 1561055554429.931,
+      "ctimeMs": 1561055554443.8347,
+      "birthtimeMs": 1561054392765.2954,
+      "atime": "2019-06-20T18:32:34.486Z",
+      "mtime": "2019-06-20T18:32:34.430Z",
+      "ctime": "2019-06-20T18:32:34.444Z",
+      "birthtime": "2019-06-20T18:13:12.765Z"
+    },
+    "04013446-25eb-5163-94c2-b9ebf9d9c0ec": {
+      "id": "04013446-25eb-5163-94c2-b9ebf9d9c0ec",
+      "children": [
+        "445b26f2-04ee-5644-b87c-64313004dd7b"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "77e3264a416e0c5ead0d9b262c20137c",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content/blog/first-30-days/clamshell.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "blog",
+      "absolutePath": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/content/blog/first-30-days/clamshell.jpg",
+      "relativePath": "first-30-days/clamshell.jpg",
+      "extension": "jpg",
+      "size": 10701,
+      "prettySize": "10.7 kB",
+      "modifiedTime": "2019-06-20T18:13:49.739Z",
+      "accessTime": "2019-06-20T18:21:51.163Z",
+      "changeTime": "2019-06-20T18:14:33.119Z",
+      "birthTime": "2019-06-20T18:13:49.728Z",
+      "root": "/",
+      "dir": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/content/blog/first-30-days",
+      "base": "clamshell.jpg",
+      "ext": ".jpg",
+      "name": "clamshell",
+      "relativeDirectory": "first-30-days",
+      "dev": 16777222,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 503,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 13545812,
+      "blocks": 24,
+      "atimeMs": 1561054911162.5547,
+      "mtimeMs": 1561054429738.9597,
+      "ctimeMs": 1561054473118.8823,
+      "birthtimeMs": 1561054429728.203,
+      "atime": "2019-06-20T18:21:51.163Z",
+      "mtime": "2019-06-20T18:13:49.739Z",
+      "ctime": "2019-06-20T18:14:33.119Z",
+      "birthtime": "2019-06-20T18:13:49.728Z"
+    },
+    "ed90183a-5771-532e-9fee-3aafde245780": {
+      "id": "ed90183a-5771-532e-9fee-3aafde245780",
+      "children": [
+        "e645a9c2-f2a8-5299-96af-dff44b118454"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "b43b87295487f062e7eea4e750ca36b1",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"content/blog/first-30-days/index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "blog",
+      "absolutePath": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/content/blog/first-30-days/index.md",
+      "relativePath": "first-30-days/index.md",
+      "extension": "md",
+      "size": 6266,
+      "prettySize": "6.27 kB",
+      "modifiedTime": "2019-06-20T18:31:26.686Z",
+      "accessTime": "2019-06-20T18:31:26.685Z",
+      "changeTime": "2019-06-20T18:31:26.686Z",
+      "birthTime": "2019-06-20T18:04:20.709Z",
+      "root": "/",
+      "dir": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/content/blog/first-30-days",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "first-30-days",
+      "dev": 16777222,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 503,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 13543260,
+      "blocks": 16,
+      "atimeMs": 1561055486685.4412,
+      "mtimeMs": 1561055486685.6436,
+      "ctimeMs": 1561055486685.6436,
+      "birthtimeMs": 1561053860708.901,
+      "atime": "2019-06-20T18:31:26.685Z",
+      "mtime": "2019-06-20T18:31:26.686Z",
+      "ctime": "2019-06-20T18:31:26.686Z",
+      "birthtime": "2019-06-20T18:04:20.709Z"
+    },
+    "445b26f2-04ee-5644-b87c-64313004dd7b": {
+      "id": "445b26f2-04ee-5644-b87c-64313004dd7b",
+      "children": [],
+      "parent": "04013446-25eb-5163-94c2-b9ebf9d9c0ec",
+      "internal": {
+        "contentDigest": "77e3264a416e0c5ead0d9b262c20137c",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "6b17acfb-1bb6-518d-b6fd-9650d26e7a55": {
+      "id": "6b17acfb-1bb6-518d-b6fd-9650d26e7a55",
+      "children": [
+        "01d2c1dd-a4fe-5b0a-a3c4-976c6d4bf835"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "f6b672ed062287580ed34400fd2425ea",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content/blog/first-30-days/food_scraps.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "blog",
+      "absolutePath": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/content/blog/first-30-days/food_scraps.jpg",
+      "relativePath": "first-30-days/food_scraps.jpg",
+      "extension": "jpg",
+      "size": 408408,
+      "prettySize": "408 kB",
+      "modifiedTime": "2019-06-20T18:14:09.180Z",
+      "accessTime": "2019-06-20T18:21:29.660Z",
+      "changeTime": "2019-06-20T18:14:38.636Z",
+      "birthTime": "2019-06-20T18:14:09.173Z",
+      "root": "/",
+      "dir": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/content/blog/first-30-days",
+      "base": "food_scraps.jpg",
+      "ext": ".jpg",
+      "name": "food_scraps",
+      "relativeDirectory": "first-30-days",
+      "dev": 16777222,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 503,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 13545991,
+      "blocks": 800,
+      "atimeMs": 1561054889659.8887,
+      "mtimeMs": 1561054449179.6091,
+      "ctimeMs": 1561054478635.8108,
+      "birthtimeMs": 1561054449172.5776,
+      "atime": "2019-06-20T18:21:29.660Z",
+      "mtime": "2019-06-20T18:14:09.180Z",
+      "ctime": "2019-06-20T18:14:38.636Z",
+      "birthtime": "2019-06-20T18:14:09.173Z"
+    },
+    "01d2c1dd-a4fe-5b0a-a3c4-976c6d4bf835": {
+      "id": "01d2c1dd-a4fe-5b0a-a3c4-976c6d4bf835",
+      "children": [],
+      "parent": "6b17acfb-1bb6-518d-b6fd-9650d26e7a55",
+      "internal": {
+        "contentDigest": "f6b672ed062287580ed34400fd2425ea",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "f3a885e1-a814-56ca-adf1-919b0ba82eeb": {
+      "id": "f3a885e1-a814-56ca-adf1-919b0ba82eeb",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "0dd3f2c4de2bfbf56e16a272c88d195d",
+        "type": "Directory",
+        "description": "Directory \"content/assets\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "assets",
+      "absolutePath": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/content/assets",
+      "relativePath": "",
+      "extension": "",
+      "size": 96,
+      "prettySize": "96 B",
+      "modifiedTime": "2019-06-20T18:21:49.767Z",
+      "accessTime": "2019-06-20T18:36:05.550Z",
+      "changeTime": "2019-06-20T18:21:49.767Z",
+      "birthTime": "2019-06-20T13:59:08.796Z",
+      "root": "/",
+      "dir": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/content",
+      "base": "assets",
+      "ext": "",
+      "name": "assets",
+      "relativeDirectory": "..",
+      "dev": 16777222,
+      "mode": 16877,
+      "nlink": 3,
+      "uid": 503,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 13457868,
+      "blocks": 0,
+      "atimeMs": 1561055765550.484,
+      "mtimeMs": 1561054909766.7244,
+      "ctimeMs": 1561054909766.7244,
+      "birthtimeMs": 1561039148795.7812,
+      "atime": "2019-06-20T18:36:05.550Z",
+      "mtime": "2019-06-20T18:21:49.767Z",
+      "ctime": "2019-06-20T18:21:49.767Z",
+      "birthtime": "2019-06-20T13:59:08.796Z"
+    },
+    "6a84e8f2-55ac-5b5f-a48d-27d99be20746": {
+      "id": "6a84e8f2-55ac-5b5f-a48d-27d99be20746",
+      "children": [
+        "1a4c7bdc-4220-5469-b0dc-238c428bfdc6"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "4a9773549091c227cd2eb82ccd9c5e3a",
+        "type": "File",
+        "mediaType": "image/png",
+        "description": "File \"content/assets/gatsby-icon.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "assets",
+      "absolutePath": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/content/assets/gatsby-icon.png",
+      "relativePath": "gatsby-icon.png",
+      "extension": "png",
+      "size": 21212,
+      "prettySize": "21.2 kB",
+      "modifiedTime": "2019-06-20T13:59:08.796Z",
+      "accessTime": "2019-06-20T18:21:51.380Z",
+      "changeTime": "2019-06-20T18:21:49.767Z",
+      "birthTime": "2019-06-20T13:59:08.796Z",
+      "root": "/",
+      "dir": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/content/assets",
+      "base": "gatsby-icon.png",
+      "ext": ".png",
+      "name": "gatsby-icon",
+      "relativeDirectory": "",
+      "dev": 16777222,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 503,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 13321134,
+      "blocks": 48,
+      "atimeMs": 1561054911379.5032,
+      "mtimeMs": 1561039148796.075,
+      "ctimeMs": 1561054909766.7244,
+      "birthtimeMs": 1561039148795.8677,
+      "atime": "2019-06-20T18:21:51.380Z",
+      "mtime": "2019-06-20T13:59:08.796Z",
+      "ctime": "2019-06-20T18:21:49.767Z",
+      "birthtime": "2019-06-20T13:59:08.796Z"
+    },
+    "1a4c7bdc-4220-5469-b0dc-238c428bfdc6": {
+      "id": "1a4c7bdc-4220-5469-b0dc-238c428bfdc6",
+      "children": [],
+      "parent": "6a84e8f2-55ac-5b5f-a48d-27d99be20746",
+      "internal": {
+        "contentDigest": "4a9773549091c227cd2eb82ccd9c5e3a",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "e645a9c2-f2a8-5299-96af-dff44b118454": {
+      "id": "e645a9c2-f2a8-5299-96af-dff44b118454",
+      "children": [],
+      "parent": "ed90183a-5771-532e-9fee-3aafde245780",
+      "internal": {
+        "content": "\nAs both a Software Engineer and someone passionate about sustainability and reducing food waste, joining Imperfect one month ago was an easy decision for me.\n\nI’m a Frontend Engineer working remotely from Philadelphia, and our Engineering team is spread out all across the US. We’re a cross-functional team working on both the Imperfect Produce shopping experience, as well as complex internal tools and interfaces. Throughout my interview process, some really important things stood out to me.\n\nThe team genuinely cares about Imperfect’s mission: reducing food waste. Now that I’m an employee, it’s clear that everyone here does too, not just my direct team. My co-workers share tips on how they personally help reduce food waste in their own homes, they teach information sessions about topics like Permaculture, and they’re actual customers of Imperfect Produce.\n\n![Food Scraps](./food_scraps.jpg)\n\nEveryone on the team cares about excelling in their area of expertise. We’re using an array of interesting technologies to create a complex e-commerce product, and the stack ranges from React and Redux, to Node and F#, with a lot in between.\n\nFinally, they’re solving interesting problems, using an experiment and data-driven approach. How do we help our users find the products most interesting to them, while still recovering as much produce and imperfect dry goods as possible? How do we make our operations and fulfillment centers run more safely and efficiently? How do we run iterable experiments on our website in multiple markets, and when do we feel confident enough in their results to release to everyone or pull the plug?\n\nNeedless to say, all of this piqued my interest. Let’s fast forward a couple of weeks to my first day!\n\nFirst impressions are important, and mine was that the team was extremely prepared for me to start -- always a good sign! My calendar was booked with onboarding sessions and introductory 1-on-1 chats with everyone on my team for the first week. I was provided with an overview of what my first week would look like, which contained polished documentation, links to our repositories, tools, business acronyms (ask me about ATP, PLE, FC!), and information on how to gain access to everything.\n\nOn the morning of my first day, one of my new teammates welcomed me on a video call. She showed me around some of our tools and workspaces, and made sure I was in all the right Slack channels. Most importantly, she made it known that onboarding me was her priority. There was even a new slack channel with a subset of our team, dedicated to fielding my questions and being available to help. Everyone was extremely generous with their time and knowledge. As a remote team, these details really stood out to me as both a way to set me up for success, and to immediately integrate me into the team.\n\nI started cloning repos, attending business and code overview sessions, and by the end of the week had written and deployed my first feature. Slowly but surely, I started picking up more challenging pieces of work.\n\nOne of the first things that struck me about the team was how intentional everything they did was. Yes, there’s a ton of room for creativity and flexibility, but it’s designed that way.\n\nAs a remote team, we’re mindful of having clear communication and fostering a sense of team. We do written slack standups, which allows everyone to post their updates when it makes the most sense for them.\n\nOur weeks are structured in a way that encourages both collaborative ideation and longer windows of deep work. We have planning meetings on Monday, and retro meetings on Friday. Tuesday through Thursday are meant for digging into code. Occasionally throughout the week, we have some Clambakes.\n\nYes, you read that right. But no, it’s not what you think!\n\nShortly before I joined, the team was brainstorming ways to foster more collaboration and knowledge-sharing across work. They decided that in our planning meetings, we would try self-assigning smaller groups of the team to each project on our Asana Board. That self-assigned group for a given project might consist of a Frontend Engineer, Backend Engineer, QA Engineer, and our Product Manager.\n\nThat group is called a ‘Clamshell’, and they might have a follow-up conversation or two to dig into and finalize the project’s requirements. That follow-up conversation is called a ‘Clambake’. So there you go - Clamshells (a smaller group of team members) have Clambakes (follow-up brainstorming and planning sessions).\n\n![Clamshell](./clamshell.jpg)\n> Clamshell\n\n![Clambake](./clambake.jpg)\n> Clambake\n\nEvery other week, we have one day dedicated to working on anything interesting to us about the business, product, or technology -- this is called Zen10. It’s been really helpful having this dedicated day to explore anything I’m interested in, and then demo some of my proposed features in our Friday Retro/Demo. So far I’ve used it to brush up on technologies here I was unfamiliar with, code a proof-of-concept new feature with an interesting endpoint, and even write this blog post!\n\nOur retros on Fridays also function as a dedicated space to hang out together for an hour or so. We demo what we worked on during the week, share any important team updates, and chat about what’s going well or not-so-well. This is my favorite hour of the week by far -- It’s great being able to celebrate the progress from the week together, see the results of our work, and start winding down for the weekend.\n\nAs a new user of the product itself, I feel lucky to be in a position to work directly with the team building it. It’s energizing being able to both voice my first impressions and actually investigate new, useful features that as a customer, I’d love to see.\n\nI’m looking forward to digging deeper into our challenges, and making a positive impact on the food system through technology.\n\nWe're hiring for lots of positions, especially on the Engineering and Product side. If you're interested in learning more, [apply here](https://jobs.lever.co/imperfectproduce?team=Engineering)!\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "1269e70165e118cae4cb5269dea23fad",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "readingTime": "gatsby-remark-reading-time",
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "My first 30 days at Imperfect Produce",
+        "date": "2019-06-20",
+        "author": "Jackie Feminella",
+        "excerpt": "Our team turns code into food!"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\nAs both a Software Engineer and someone passionate about sustainability and reducing food waste, joining Imperfect one month ago was an easy decision for me.\n\nI’m a Frontend Engineer working remotely from Philadelphia, and our Engineering team is spread out all across the US. We’re a cross-functional team working on both the Imperfect Produce shopping experience, as well as complex internal tools and interfaces. Throughout my interview process, some really important things stood out to me.\n\nThe team genuinely cares about Imperfect’s mission: reducing food waste. Now that I’m an employee, it’s clear that everyone here does too, not just my direct team. My co-workers share tips on how they personally help reduce food waste in their own homes, they teach information sessions about topics like Permaculture, and they’re actual customers of Imperfect Produce.\n\n![Food Scraps](./food_scraps.jpg)\n\nEveryone on the team cares about excelling in their area of expertise. We’re using an array of interesting technologies to create a complex e-commerce product, and the stack ranges from React and Redux, to Node and F#, with a lot in between.\n\nFinally, they’re solving interesting problems, using an experiment and data-driven approach. How do we help our users find the products most interesting to them, while still recovering as much produce and imperfect dry goods as possible? How do we make our operations and fulfillment centers run more safely and efficiently? How do we run iterable experiments on our website in multiple markets, and when do we feel confident enough in their results to release to everyone or pull the plug?\n\nNeedless to say, all of this piqued my interest. Let’s fast forward a couple of weeks to my first day!\n\nFirst impressions are important, and mine was that the team was extremely prepared for me to start -- always a good sign! My calendar was booked with onboarding sessions and introductory 1-on-1 chats with everyone on my team for the first week. I was provided with an overview of what my first week would look like, which contained polished documentation, links to our repositories, tools, business acronyms (ask me about ATP, PLE, FC!), and information on how to gain access to everything.\n\nOn the morning of my first day, one of my new teammates welcomed me on a video call. She showed me around some of our tools and workspaces, and made sure I was in all the right Slack channels. Most importantly, she made it known that onboarding me was her priority. There was even a new slack channel with a subset of our team, dedicated to fielding my questions and being available to help. Everyone was extremely generous with their time and knowledge. As a remote team, these details really stood out to me as both a way to set me up for success, and to immediately integrate me into the team.\n\nI started cloning repos, attending business and code overview sessions, and by the end of the week had written and deployed my first feature. Slowly but surely, I started picking up more challenging pieces of work.\n\nOne of the first things that struck me about the team was how intentional everything they did was. Yes, there’s a ton of room for creativity and flexibility, but it’s designed that way.\n\nAs a remote team, we’re mindful of having clear communication and fostering a sense of team. We do written slack standups, which allows everyone to post their updates when it makes the most sense for them.\n\nOur weeks are structured in a way that encourages both collaborative ideation and longer windows of deep work. We have planning meetings on Monday, and retro meetings on Friday. Tuesday through Thursday are meant for digging into code. Occasionally throughout the week, we have some Clambakes.\n\nYes, you read that right. But no, it’s not what you think!\n\nShortly before I joined, the team was brainstorming ways to foster more collaboration and knowledge-sharing across work. They decided that in our planning meetings, we would try self-assigning smaller groups of the team to each project on our Asana Board. That self-assigned group for a given project might consist of a Frontend Engineer, Backend Engineer, QA Engineer, and our Product Manager.\n\nThat group is called a ‘Clamshell’, and they might have a follow-up conversation or two to dig into and finalize the project’s requirements. That follow-up conversation is called a ‘Clambake’. So there you go - Clamshells (a smaller group of team members) have Clambakes (follow-up brainstorming and planning sessions).\n\n![Clamshell](./clamshell.jpg)\n> Clamshell\n\n![Clambake](./clambake.jpg)\n> Clambake\n\nEvery other week, we have one day dedicated to working on anything interesting to us about the business, product, or technology -- this is called Zen10. It’s been really helpful having this dedicated day to explore anything I’m interested in, and then demo some of my proposed features in our Friday Retro/Demo. So far I’ve used it to brush up on technologies here I was unfamiliar with, code a proof-of-concept new feature with an interesting endpoint, and even write this blog post!\n\nOur retros on Fridays also function as a dedicated space to hang out together for an hour or so. We demo what we worked on during the week, share any important team updates, and chat about what’s going well or not-so-well. This is my favorite hour of the week by far -- It’s great being able to celebrate the progress from the week together, see the results of our work, and start winding down for the weekend.\n\nAs a new user of the product itself, I feel lucky to be in a position to work directly with the team building it. It’s energizing being able to both voice my first impressions and actually investigate new, useful features that as a customer, I’d love to see.\n\nI’m looking forward to digging deeper into our challenges, and making a positive impact on the food system through technology.\n\nWe're hiring for lots of positions, especially on the Engineering and Product side. If you're interested in learning more, [apply here](https://jobs.lever.co/imperfectproduce?team=Engineering)!\n",
+      "fileAbsolutePath": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/content/blog/first-30-days/index.md",
+      "fields": {
+        "readingTime": {
+          "text": "5 min read",
+          "minutes": 4.995,
+          "time": 299700,
+          "words": 999
+        },
+        "slug": "/first-30-days/"
+      }
+    },
+    "2f4694c3-abb1-51db-baee-ade89a1089cc": {
+      "id": "2f4694c3-abb1-51db-baee-ade89a1089cc",
+      "children": [],
+      "parent": "69efc88c-11aa-5d91-9c6a-ada4b032d668",
+      "internal": {
+        "contentDigest": "53759955d28b23e0483af13bf25b5089",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "SitePage /offline-plugin-app-shell-fallback/": {
+      "jsonName": "offline-plugin-app-shell-fallback-a30",
+      "internalComponentName": "ComponentOfflinePluginAppShellFallback",
+      "path": "/offline-plugin-app-shell-fallback/",
+      "component": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/node_modules/gatsby-plugin-offline/app-shell.js",
+      "componentChunkName": "component---node-modules-gatsby-plugin-offline-app-shell-js",
+      "context": {},
+      "pluginCreator___NODE": "63e5f7ff-e5f1-58f7-8e2c-55872ac42281",
+      "pluginCreatorId": "63e5f7ff-e5f1-58f7-8e2c-55872ac42281",
+      "componentPath": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/node_modules/gatsby-plugin-offline/app-shell.js",
+      "id": "SitePage /offline-plugin-app-shell-fallback/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "df485a54841aca8e1a0750c12c8106c6",
+        "description": "63e5f7ff-e5f1-58f7-8e2c-55872ac42281",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /first-30-days/": {
+      "jsonName": "first-30-days-79d",
+      "internalComponentName": "ComponentFirst30Days",
+      "path": "/first-30-days/",
+      "component": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "slug": "/first-30-days/",
+        "previous": null,
+        "next": null
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/src/templates/blog-post.js",
+      "id": "SitePage /first-30-days/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "16b3f60f8875517ed65e6043a8d4a3f8",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404/": {
+      "jsonName": "404-22d",
+      "internalComponentName": "Component404",
+      "path": "/404/",
+      "component": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "pluginCreator___NODE": "b0a8a696-6efa-56d1-b3c1-3114e04d3c74",
+      "pluginCreatorId": "b0a8a696-6efa-56d1-b3c1-3114e04d3c74",
+      "componentPath": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/src/pages/404.js",
+      "id": "SitePage /404/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "1bcd83ca6c0951d3429481e8025a47ac",
+        "description": "b0a8a696-6efa-56d1-b3c1-3114e04d3c74",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "jsonName": "index",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "context": {},
+      "pluginCreator___NODE": "b0a8a696-6efa-56d1-b3c1-3114e04d3c74",
+      "pluginCreatorId": "b0a8a696-6efa-56d1-b3c1-3114e04d3c74",
+      "componentPath": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "1ac33495cf267852b29ca2563f6b3984",
+        "description": "b0a8a696-6efa-56d1-b3c1-3114e04d3c74",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404.html": {
+      "jsonName": "404-html-516",
+      "internalComponentName": "Component404Html",
+      "path": "/404.html",
+      "component": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "pluginCreator___NODE": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "pluginCreatorId": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "componentPath": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/src/pages/404.js",
+      "id": "SitePage /404.html",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "aeb0030b47d104931b01e07c5f3cf49d",
+        "description": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+        "owner": "internal-data-bridge"
+      }
+    }
+  },
+  "status": {
+    "plugins": {},
+    "PLUGINS_HASH": "c7184ac2a7259b49a20a73cb2c61d6a5"
+  },
+  "componentDataDependencies": {
+    "nodes": {
+      "Site": [
+        "/first-30-days/",
+        "/hello-world/",
+        "/",
+        "/404/",
+        "/404.html",
+        "sq--src-components-seo-js"
+      ],
+      "e645a9c2-f2a8-5299-96af-dff44b118454": [
+        "/first-30-days/"
+      ],
+      "e72e656a-f44d-581d-9ccd-11ea88d92cd3": [
+        "/hello-world/"
+      ]
+    },
+    "connections": {
+      "MarkdownRemark": [
+        null,
+        "/",
+        null
+      ]
+    }
+  },
+  "jsonDataPaths": {
+    "sq--src-components-seo-js": 1315885718,
+    "404-22d": "697/path---404-22-d-bce-FFuZcspdcvXV2DBB3x2BgSna8QM",
+    "404-html-516": "974/path---404-html-516-62a-FFuZcspdcvXV2DBB3x2BgSna8QM",
+    "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E",
+    "hello-world-8bc": "414/path---hello-world-8-bc-b62-7Q0byt0GvAOrKajNMgBSC39TZmA",
+    "first-30-days-79d": "422/path---first-30-days-79-d-4e2-ZmQEKBqVQkA9UDycyHnZSvuL5WI",
+    "index": "237/path---index-6a9-vVeq3HUhvZoQsYMFUexOnKAGXE",
+    "offline-plugin-app-shell-fallback-a30": "520/path---offline-plugin-app-shell-fallback-a-30-c5a-NZuapzHg3X9TaN1iIixfv1W23E"
+  },
+  "components": {
+    "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/src/templates/blog-post.js": {
+      "query": "query BlogPostBySlug(\n  $slug: String!\n) {\n  site {\n    siteMetadata {\n      title\n    }\n  }\n  markdownRemark(fields: {slug: {eq: $slug}}) {\n    id\n    excerpt(pruneLength: 160)\n    html\n    fields {\n      readingTime {\n        text\n      }\n    }\n    frontmatter {\n      title\n      date(formatString: \"MMMM DD, YYYY\")\n      author\n      excerpt\n    }\n  }\n}\n",
+      "componentPath": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/src/templates/blog-post.js"
+    },
+    "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/src/pages/404.js": {
+      "query": "query usersJaclynfEminellaWorkspaceImperfectproduceGithubIoSrcPages404Js1097489062 {\n  site {\n    siteMetadata {\n      title\n    }\n  }\n}\n",
+      "componentPath": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/src/pages/404.js"
+    },
+    "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/src/pages/index.js": {
+      "query": "query usersJaclynfEminellaWorkspaceImperfectproduceGithubIoSrcPagesIndexJs3892521046 {\n  site {\n    siteMetadata {\n      title\n    }\n  }\n  allMarkdownRemark(sort: {fields: [frontmatter___date], order: DESC}) {\n    edges {\n      node {\n        excerpt\n        fields {\n          slug\n          readingTime {\n            text\n          }\n        }\n        frontmatter {\n          date(formatString: \"MMMM DD, YYYY\")\n          title\n          author\n          excerpt\n        }\n      }\n    }\n  }\n}\n",
+      "componentPath": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/src/pages/index.js"
+    },
+    "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/node_modules/gatsby-plugin-offline/app-shell.js": {
+      "query": "",
+      "componentPath": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/node_modules/gatsby-plugin-offline/app-shell.js"
+    }
+  },
+  "staticQueryComponents": {
+    "sq--src-components-seo-js": {
+      "name": "DefaultSEOQuery",
+      "componentPath": "/Users/jaclynf.eminella/Workspace/imperfectproduce.github.io/src/components/seo.js",
+      "id": "sq--src-components-seo-js",
+      "jsonName": "sq--src-components-seo-js",
+      "query": "query DefaultSEOQuery {\n  site {\n    siteMetadata {\n      title\n      description\n    }\n  }\n}\n",
+      "hash": 1315885718
+    }
+  }
+}
