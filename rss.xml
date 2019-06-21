@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Imperfect Engineering Blog]]></title><description><![CDATA[Imperfect Engineering Tech Blog]]></description><link>https://affectionate-easley-e21530.netlify.com/</link><generator>RSS for Node</generator><lastBuildDate>Thu, 20 Jun 2019 21:25:11 GMT</lastBuildDate><item><title><![CDATA[My first 30 days at Imperfect Produce]]></title><description><![CDATA[As both a Software Engineer and someone passionate about sustainability and reducing food waste, joining Imperfect one month ago was an easy…]]></description><link>https://affectionate-easley-e21530.netlify.com//first-30-days/</link><guid isPermaLink="false">https://affectionate-easley-e21530.netlify.com//first-30-days/</guid><pubDate>Thu, 20 Jun 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;As both a Software Engineer and someone passionate about sustainability and reducing food waste, joining Imperfect one month ago was an easy decision for me.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Imperfect Engineering Blog]]></title><description><![CDATA[Imperfect Engineering Tech Blog]]></description><link>https://affectionate-easley-e21530.netlify.com/</link><generator>RSS for Node</generator><lastBuildDate>Fri, 21 Jun 2019 13:09:33 GMT</lastBuildDate><item><title><![CDATA[My first 30 days at Imperfect Produce]]></title><description><![CDATA[As both a Software Engineer and someone passionate about sustainability and reducing food waste, joining Imperfect one month ago was an easy…]]></description><link>https://affectionate-easley-e21530.netlify.com//first-30-days/</link><guid isPermaLink="false">https://affectionate-easley-e21530.netlify.com//first-30-days/</guid><pubDate>Thu, 20 Jun 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;As both a Software Engineer and someone passionate about sustainability and reducing food waste, joining Imperfect one month ago was an easy decision for me.&lt;/p&gt;
 &lt;p&gt;I’m a Frontend Engineer working remotely from Philadelphia, and our Engineering team is spread out all across the US. We’re a cross-functional team working on both the Imperfect Produce shopping experience, as well as complex internal tools and interfaces. Throughout my interview process, some really important things stood out to me.&lt;/p&gt;
 &lt;p&gt;The team genuinely cares about Imperfect’s mission: reducing food waste. Now that I’m an employee, it’s clear that everyone here does too, not just my direct team. My co-workers share tips on how they personally help reduce food waste in their own homes, they teach information sessions about topics like Permaculture, and they’re actual customers of Imperfect Produce.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/f6b672ed062287580ed34400fd2425ea/3460d/food_scraps.jpg&quot;
+    href=&quot;/static/fc5e3d98fcc734885455c1a936208df3/d1924/food_scraps.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -16,21 +16,19 @@
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 25.6%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAFABQDASIAAhEBAxEB/8QAFwABAAMAAAAAAAAAAAAAAAAAAAMEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/9oADAMBAAIQAxAAAAHXjJK4Kn//xAAVEAEBAAAAAAAAAAAAAAAAAAADEP/aAAgBAQABBQJb/8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQMBAT8BJ//EABYRAAMAAAAAAAAAAAAAAAAAAAEQMf/aAAgBAgEBPwE1f//EABYQAAMAAAAAAAAAAAAAAAAAAAABEP/aAAgBAQAGPwIc/8QAGRAAAgMBAAAAAAAAAAAAAAAAATEAEFFx/9oACAEBAAE/IWHISmV//9oADAMBAAIAAwAAABB7z//EABYRAAMAAAAAAAAAAAAAAAAAAAEQIf/aAAgBAwEBPxAov//EABYRAAMAAAAAAAAAAAAAAAAAABARIf/aAAgBAgEBPxClH//EABgQAQEBAQEAAAAAAAAAAAAAAAERIQBB/9oACAEBAAE/ELjUKsz05bVBGDjWPGB3/9k=&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 25.593220338983052%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAFABQDASIAAhEBAxEB/8QAFwABAAMAAAAAAAAAAAAAAAAAAAMEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/9oADAMBAAIQAxAAAAHXjJK4Kn//xAAVEAEBAAAAAAAAAAAAAAAAAAADEP/aAAgBAQABBQJb/8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQMBAT8BJ//EABYRAAMAAAAAAAAAAAAAAAAAAAEQMf/aAAgBAgEBPwE1f//EABYQAAMAAAAAAAAAAAAAAAAAAAABEP/aAAgBAQAGPwIc/8QAGRABAAIDAAAAAAAAAAAAAAAAAQAxEEFx/9oACAEBAAE/IbHItNGP/9oADAMBAAIAAwAAABALz//EABYRAAMAAAAAAAAAAAAAAAAAAAEQIf/aAAgBAwEBPxAov//EABYRAAMAAAAAAAAAAAAAAAAAABARIf/aAAgBAgEBPxClH//EABkQAQEBAQEBAAAAAAAAAAAAAAERIQAxQf/aAAgBAQABPxC41CrGfTldUQwcax94w7//2Q==&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Food Scraps&quot;
         title=&quot;&quot;
-        src=&quot;/static/f6b672ed062287580ed34400fd2425ea/f8fb9/food_scraps.jpg&quot;
-        srcset=&quot;/static/f6b672ed062287580ed34400fd2425ea/e8976/food_scraps.jpg 148w,
-/static/f6b672ed062287580ed34400fd2425ea/63df2/food_scraps.jpg 295w,
-/static/f6b672ed062287580ed34400fd2425ea/f8fb9/food_scraps.jpg 590w,
-/static/f6b672ed062287580ed34400fd2425ea/85e3d/food_scraps.jpg 885w,
-/static/f6b672ed062287580ed34400fd2425ea/d1924/food_scraps.jpg 1180w,
-/static/f6b672ed062287580ed34400fd2425ea/9452e/food_scraps.jpg 1770w,
-/static/f6b672ed062287580ed34400fd2425ea/3460d/food_scraps.jpg 3000w&quot;
+        src=&quot;/static/fc5e3d98fcc734885455c1a936208df3/f8fb9/food_scraps.jpg&quot;
+        srcset=&quot;/static/fc5e3d98fcc734885455c1a936208df3/e8976/food_scraps.jpg 148w,
+/static/fc5e3d98fcc734885455c1a936208df3/63df2/food_scraps.jpg 295w,
+/static/fc5e3d98fcc734885455c1a936208df3/f8fb9/food_scraps.jpg 590w,
+/static/fc5e3d98fcc734885455c1a936208df3/85e3d/food_scraps.jpg 885w,
+/static/fc5e3d98fcc734885455c1a936208df3/d1924/food_scraps.jpg 1180w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -53,7 +51,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/77e3264a416e0c5ead0d9b262c20137c/79ad4/clamshell.jpg&quot;
+    href=&quot;/static/274e7718a9eb2fff1924fe7b91dc44ef/79ad4/clamshell.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -65,17 +63,17 @@
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 71.25%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAAD/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAAcGNJFpiSf/EABkQAAIDAQAAAAAAAAAAAAAAAAECAAMEEv/aAAgBAQABBQJzd1XevKsGEOdCwzKJ/8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQMBAT8Bh//EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAECAQE/Aaf/xAAcEAACAgIDAAAAAAAAAAAAAAAAAQIRECEiMVH/2gAIAQEABj8C7o5SVlp4ct7PT//EABwQAQACAQUAAAAAAAAAAAAAAAEAESEQMVFxgf/aAAgBAQABPyFeLXFVKY82Bxo6LTouFNrluz//2gAMAwEAAgADAAAAEEgf/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERMf/aAAgBAwEBPxClhGf/xAAXEQADAQAAAAAAAAAAAAAAAAAAAREx/9oACAECAQE/EJelR//EABsQAQEBAQEAAwAAAAAAAAAAAAERACFBYXGh/9oACAEBAAE/EJ8I0C4/RyIEOoi75yhSfZ5uYHeDRAL6a8cpgXf/2Q==&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 71.25%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAAD/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgAB/9oADAMBAAIQAxAAAAHBjSBpiW3/xAAZEAACAwEAAAAAAAAAAAAAAAABAgADBBL/2gAIAQEAAQUCc3dV3ryrBhDnQuMyif/EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAEDAQE/AYf/xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAgEBPwGn/8QAHBAAAgICAwAAAAAAAAAAAAAAAAECERAhIjFR/9oACAEBAAY/Au6OUlZaeHLez0//xAAdEAEAAgEFAQAAAAAAAAAAAAABABEhEDFRYXGB/9oACAEBAAE/IV4tcVUpj5sDjR70WHhcKbXLdn//2gAMAwEAAgADAAAAEFsP/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERMf/aAAgBAwEBPxClhGf/xAAXEQADAQAAAAAAAAAAAAAAAAAAAREx/9oACAECAQE/EJelR//EABoQAQADAQEBAAAAAAAAAAAAAAEAESFBcaH/2gAIAQEAAT8QrYRsCx9GIoIaiLnmUInpyZAVwbFAXpL45TQXP//Z&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Clamshell&quot;
         title=&quot;&quot;
-        src=&quot;/static/77e3264a416e0c5ead0d9b262c20137c/79ad4/clamshell.jpg&quot;
-        srcset=&quot;/static/77e3264a416e0c5ead0d9b262c20137c/a7b8e/clamshell.jpg 148w,
-/static/77e3264a416e0c5ead0d9b262c20137c/575d0/clamshell.jpg 295w,
-/static/77e3264a416e0c5ead0d9b262c20137c/79ad4/clamshell.jpg 400w&quot;
+        src=&quot;/static/274e7718a9eb2fff1924fe7b91dc44ef/79ad4/clamshell.jpg&quot;
+        srcset=&quot;/static/274e7718a9eb2fff1924fe7b91dc44ef/a7b8e/clamshell.jpg 148w,
+/static/274e7718a9eb2fff1924fe7b91dc44ef/575d0/clamshell.jpg 295w,
+/static/274e7718a9eb2fff1924fe7b91dc44ef/79ad4/clamshell.jpg 400w&quot;
         sizes=&quot;(max-width: 400px) 100vw, 400px&quot;
       /&gt;
     &lt;/span&gt;
@@ -89,7 +87,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/53759955d28b23e0483af13bf25b5089/62d77/clambake.jpg&quot;
+    href=&quot;/static/79bc54a72d01857e7a17d34438a4e8e5/1432b/clambake.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -97,22 +95,22 @@
   
   &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 432px; margin-left: auto; margin-right: auto;&quot;
+    style=&quot;position: relative; display: block;  max-width: 360px; margin-left: auto; margin-right: auto;&quot;
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 67.5925925925926%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAf/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwT/2gAMAwEAAhADEAAAAaY27nu8aFf/xAAaEAACAwEBAAAAAAAAAAAAAAABEQACAxIh/9oACAEBAAEFAtNBLPmgPJ9jcyKp/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAFx/9oACAEDAQE/AVx//8QAFxEBAAMAAAAAAAAAAAAAAAAAAAECEv/aAAgBAgEBPwGG6v/EAB0QAAEDBQEAAAAAAAAAAAAAAAABEVECITEzQaH/2gAIAQEABj8CEv2DW4+KpPRD/8QAGhABAAMBAQEAAAAAAAAAAAAAAQARMUEhcf/aAAgBAQABPyHBieCnYKWigdRAaW7kqKfESln0B6iin//aAAwDAQACAAMAAAAQ2+//xAAaEQEAAgMBAAAAAAAAAAAAAAABABExUZHR/9oACAEDAQE/EChvUDeHX2f/xAAZEQEAAgMAAAAAAAAAAAAAAAABABEhMaH/2gAIAQIBAT8Qo6hVl4T/xAAdEAEAAgICAwAAAAAAAAAAAAABESEAMUFxgZGh/9oACAEBAAE/EFrKVHGGwnenG3cl2De8LxbEinWSoxmhs57r65OErW0sWX594zA5QODP/9k=&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 67.5%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAv/EABYBAQEBAAAAAAAAAAAAAAAAAAMBAv/aAAwDAQACEAMQAAABpjboHeNLj//EABoQAAIDAQEAAAAAAAAAAAAAAAECAAMREiH/2gAIAQEAAQUCewRt5QHk+zZUcT//xAAVEQEBAAAAAAAAAAAAAAAAAAAAAf/aAAgBAwEBPwFX/8QAFxEBAAMAAAAAAAAAAAAAAAAAAAECEv/aAAgBAgEBPwGG6v/EABsQAAIBBQAAAAAAAAAAAAAAAAABUQIhM0Gh/9oACAEBAAY/AhX3BjTIqk6I/8QAGhABAQADAQEAAAAAAAAAAAAAAREAITFBcf/aAAgBAQABPyF2uPBnuCLogMJLse2ZIp8RkNdgOlxBMz//2gAMAwEAAgADAAAAEEAf/8QAGhEBAAIDAQAAAAAAAAAAAAAAAQARMVGh0f/aAAgBAwEBPxAAb1A3g77P/8QAGREBAAIDAAAAAAAAAAAAAAAAAQARITGR/9oACAECAQE/EKOoVZXhP//EABwQAQEAAwEAAwAAAAAAAAAAAAERACExcUFhkf/aAAgBAQABPxBpCi3hjYnprG1GlxTvcJQdhDTzEy5Fg6fPv37lomlFVm7fX9wetOBwz//Z&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Clambake&quot;
         title=&quot;&quot;
-        src=&quot;/static/53759955d28b23e0483af13bf25b5089/62d77/clambake.jpg&quot;
-        srcset=&quot;/static/53759955d28b23e0483af13bf25b5089/8930d/clambake.jpg 148w,
-/static/53759955d28b23e0483af13bf25b5089/0e289/clambake.jpg 295w,
-/static/53759955d28b23e0483af13bf25b5089/62d77/clambake.jpg 432w&quot;
-        sizes=&quot;(max-width: 432px) 100vw, 432px&quot;
+        src=&quot;/static/79bc54a72d01857e7a17d34438a4e8e5/1432b/clambake.jpg&quot;
+        srcset=&quot;/static/79bc54a72d01857e7a17d34438a4e8e5/99c38/clambake.jpg 148w,
+/static/79bc54a72d01857e7a17d34438a4e8e5/d36be/clambake.jpg 295w,
+/static/79bc54a72d01857e7a17d34438a4e8e5/1432b/clambake.jpg 360w&quot;
+        sizes=&quot;(max-width: 360px) 100vw, 360px&quot;
       /&gt;
     &lt;/span&gt;
   &lt;/span&gt;
