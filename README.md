@@ -2,35 +2,39 @@
 
 Engineering blog originally templated from this [Gatsby starter](https://github.com/gatsbyjs/gatsby-starter-blog).
 
-## Adding A Blog Post
-
-Add a new folder and file in `/content/{page-name}/index.md`.
-
-This is a source controlled folder.  When committed and pushed it will automatically cause a redeploy.
-Doing it on a branch other than master and opening a PR Netlify should trigger a preview deployment.
-
+https://imperfectproduce.github.io/
 
 ## Useful References
 
 - [Popular engineering team blogs](http://www.quickcode.co/engineer-blogs)
+- [Process for development & deployment](http://iolivia.me/posts/7-gatsby-deploy-github/)
 
+## Adding A Blog Post
 
-## 💫 Deployment (Netlify)
+Process taken from this article: http://iolivia.me/posts/7-gatsby-deploy-github/
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/49f8552e-b4c1-4652-8015-6fabd2da749c/deploy-status)](https://app.netlify.com/sites/affectionate-easley-e21530/deploys)
+Do your active work on the `master-source` branch. When done, commit and push your changes to `master-source`. The `master` branch will hold all of the generated static site code, whereas `master-source` is a reserved branch for development and our actual changes.
 
-#### Triggering Deployments
+`gco -b master-source`
 
-Pushes to master automatically build and deploy the site.
+Checkout the local node version: `nvm use`
 
-It is also possible to set up hooks in Netlify to trigger builds.  The main use case is
-changing content in an external data source such as a headless CMS (eg Prismic).
+Install dependencies: `yarn`
 
-#### PR Previews
+Add a new folder and file in `/content/{page-name}/index.md`.
 
-Netlify also supports preview deployments of PR's.
+Run locally with `npm run develop` and hit `localhost:8000`
 
+When ready to commit, commit and push to `master-source`:
+  - `git push --set-upstream origin master-source`
 
+## 💫 Deployment to GH Pages
+Run deployment on `master-source`, which will push the generated site code to the `master` branch.
+`npm run deploy`
+
+The site is accessible here https://imperfectproduce.github.io/
+
+# Gatsby Documentation
 ## 🚀 Quick Start (Development)
 
 1.  **Install gatsby-cli globally.**
@@ -97,3 +101,18 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 - **For most developers, we recommend starting with our [in-depth tutorial for creating a site with Gatsby](https://www.gatsbyjs.org/tutorial/).** It starts with zero assumptions about your level of ability and walks through every step of the process.
 
 - **To dive straight into code samples, head [to our documentation](https://www.gatsbyjs.org/docs/).** In particular, check out the _Guides_, _API Reference_, and _Advanced Tutorials_ sections in the sidebar.
+
+
+# Previous documentation ported over from Code-to-food repo, about Netlify deployments
+## 💫 Deployment (Netlify)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/49f8552e-b4c1-4652-8015-6fabd2da749c/deploy-status)](https://app.netlify.com/sites/affectionate-easley-e21530/deploys)
+
+#### Triggering Deployments
+Pushes to master automatically build and deploy the site.
+
+It is also possible to set up hooks in Netlify to trigger builds.  The main use case is
+changing content in an external data source such as a headless CMS (eg Prismic).
+
+#### PR Previews
+Netlify also supports preview deployments of PR's.
