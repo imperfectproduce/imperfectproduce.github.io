@@ -1,6 +1,6 @@
 ---
 title: My first 30 days at Imperfect Produce
-date: "2019-06-20"
+date: "2019-06-21"
 author: Jackie Feminella
 excerpt: Our team turns code into food!
 ---
